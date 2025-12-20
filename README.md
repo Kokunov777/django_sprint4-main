@@ -1,10 +1,5 @@
 # Блогикум часть 3
 
-## Это часть работы над проектом Блогикум:
-
-- [Блогикум часть 1](https://github.com/Rizhykc/django_sprint1)
-- [Блогикум часть 2](https://github.com/Rizhykc/django_sprint3)
-- Блогикум часть 3 ← _этот репозиторий_
 
 ## Технологии:
 
@@ -17,7 +12,7 @@
 1. Клонирование репозитория
 
 ```
-git clone https://github.com/Rizhykc/django_sprint4.git
+git clone https://github.com/Kokynov777/django_sprint4.git
 ```
 
 2. Переход в директорию django_sprint4
